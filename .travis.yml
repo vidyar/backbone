@@ -1,6 +1,10 @@
+
 language: node_js
-
 node_js:
-  - "0.8"
-
-
+  - 0.8
+  
+addons:
+  firefox: "21.0"
+  
+before_script:
+  - firefox --version
