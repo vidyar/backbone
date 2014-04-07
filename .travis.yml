@@ -3,7 +3,7 @@ node_js:
   - 0.8
   
 addons:
-  firefox: "17.0"
+  firefox: "21.0"
   
 before_script:
   - firefox --version
