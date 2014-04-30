@@ -27,3 +27,4 @@ http://github.com/jashkenas/backbone/contributors
 
 Special thanks to Robert Kieffer for the original philosophy behind Backbone.
 http://github.com/broofa
+[![Build Status](http://apibeta.shippable.com/projects/5360a5fe945df18501e07a4f/badge)](http://beta.shippable.com/projects/5360a5fe945df18501e07a4f/projects/5360a5fe945df18501e07a4f)
