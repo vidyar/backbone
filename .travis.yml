@@ -3,12 +3,12 @@ node_js:
   - 0.8
 before_install:
     - npm install contextify
+
 addons:
-  firefox: "21.0"
- 
-hosts: 
-  - google.com
-  - asdf.com
+   firefox: "21.0"
+   hosts: 
+    - google.com
+    - asdf.com
   
 before_install:
  - firefox --version  
