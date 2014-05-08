@@ -8,10 +8,10 @@ before_install:
 addons:
   firefox: "21.0"
  
- # hosts: 
+ hosts: 
   
-  # - google.com
-   #- asdf.com
+  - google.com
+  - asdf.com
   
 before_install:
  - firefox --version  
