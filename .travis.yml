@@ -9,7 +9,8 @@ addons:
    hosts: 
     - google.com
     - asdf.com
-    - github.com
+    - joshkalderimis.com
+
   
 before_install:
    - firefox --version  
