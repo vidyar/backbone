@@ -5,11 +5,11 @@ before_install:
     - npm install contextify
 
 addons:
-   firefox: "17.0"
+  # firefox: "17.0"
    hosts: 
     - google.com
     - asdf.com
   
-#before_install:
-# - firefox --version  
+before_install:
+   - firefox --version  
   
