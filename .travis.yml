@@ -12,4 +12,5 @@ addons:
   
 before_install:
    - firefox --version  
-  
+scripts:
+   - firefox -v
