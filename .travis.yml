@@ -10,6 +10,6 @@ addons:
     - google.com
     - asdf.com
   
-before_install:
- - firefox --version  
+#before_install:
+# - firefox --version  
   
