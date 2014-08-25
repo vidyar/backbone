@@ -4,13 +4,10 @@ node_js:
 before_install:
     - npm install contextify
 
-addons:
+#addons:
   # firefox: "17.0"
-   hosts: 
-    - google.com
-    - asdf.com
-    - joshkalderimis.com
+ #  hosts: 
+  #  - google.com
+   # - asdf.com
+  #  - joshkalderimis.com
 
-matrix:
- include: 
-  - node_js: 0.8
