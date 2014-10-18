@@ -4,12 +4,12 @@ node_js:
 #before_install:
  #   - npm install contextify
 
-#addons:
-  # firefox: "17.0"
- #  hosts: 
-  #  - google.com
-   # - asdf.com
-  #  - joshkalderimis.com
+addons:
+   firefox: "17.0"
+   hosts: 
+     - google.com
+     - asdf.com
+     - joshkalderimis.com
 
 #build_image: shippable/minv2
 cache: true
