@@ -11,4 +11,5 @@ node_js:
    # - asdf.com
   #  - joshkalderimis.com
 
-build_image: shippable/minv2
+#build_image: shippable/minv2
+cache: true
