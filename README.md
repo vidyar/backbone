@@ -1,4 +1,6 @@
-     ____                     __      __
+   
+   
+ [![Build Status](https://api.shippable.com/projects/5440b82bb904a4b21567937c/badge?branchName=master)](https://app.shippable.com/projects/5440b82bb904a4b21567937c/builds/latest)  ____                     __      __
     /\  _`\                  /\ \    /\ \                                   __
     \ \ \ \ \     __      ___\ \ \/'\\ \ \____    ___     ___      __      /\_\    ____
      \ \  _ <'  /'__`\   /'___\ \ , < \ \ '__`\  / __`\ /' _ `\  /'__`\    \/\ \  /',__\
