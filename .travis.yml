@@ -2,6 +2,7 @@ language: node_js
 
 node_js:
   - 0.6
+  
 before_install:
     - npm install contextify
 
@@ -12,7 +13,7 @@ addons:
      - asdf.com
      - joshkalderimis.com
 
-#build_image: shippable/minv2
+build_image: shippable/minv2
 cache: true
 
 
